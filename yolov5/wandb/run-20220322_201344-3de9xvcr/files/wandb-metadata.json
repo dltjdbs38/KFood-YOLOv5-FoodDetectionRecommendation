@@ -1,0 +1,29 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.9.5",
+    "heartbeatAt": "2022-03-22T11:13:47.815819",
+    "startedAt": "2022-03-22T11:13:44.805576",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--img",
+        "640",
+        "--batch",
+        "8",
+        "--epochs",
+        "10",
+        "--data",
+        "kfood.yaml",
+        "--weights",
+        "yolov5x6.pt",
+        "--name",
+        "batch_8_0.002_epoch_10_v5x6"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\USER\\kfood_final\\yolov5\\train.py",
+    "codePath": "train.py",
+    "host": "DESKTOP-MM3Q7OA",
+    "username": "USER",
+    "executable": "C:\\Users\\USER\\kfood_final\\yoloenv\\Scripts\\python.exe"
+}

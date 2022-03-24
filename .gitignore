@@ -1,0 +1,17 @@
+## seoyoon's training weights - best case : batch_16_0.004_epoch_50_v5x6
+yolov5/runs/train/batch_8_0.002_epoch_1_v5s6
+yolov5/runs/train/batch_8_0.002_epoch_10_v5x6
+yolov5/runs/train/batch_8_0.002_epoch_10_v5x62
+yolov5/runs/train/batch_8_0.002_epoch_100_v5x6
+yolov5/runs/train/batch_16_0.004_epoch_17_v5x6
+yolov5/runs/train/batch_16_0.004_epoch_100_v5s6
+
+yolov5/runs/train/batch_16_0.004_epoch_50_v5x6
+# pretrained model - can be downloaded with yolov5download.py
+yolov5/yolov5l6.pt
+yolov5/yolov5x6.pt
+## virtual env - create your own virtual env (python -m venv yourenv)
+yoloenv/
+
+## datasets - gitignore our datasets after downloading them
+# datasets/
